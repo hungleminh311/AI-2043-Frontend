@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals.",
+        "title": "Unlock the Freedom of the Open Road"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock the Freedom of the Open Road",
+  "subtitle": "Find your perfect ride and start your next adventure with our hassle-free car rentals."
+}
